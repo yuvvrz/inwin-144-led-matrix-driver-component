@@ -8,6 +8,7 @@ May also work with other LED Lighting Controllers.
 1. InWin 309 Gaming Edition Case (144 LED Matrix)
 2. Corsair Lighting Node Pro
 3. Adapter Cable For Corsair RGB To Standard ARGB 4-Pin 5V Adapter Connector (You can buy this from Amazon EZDIY-FAB or AliExpress)
+4. SignalRGB
 
 Amazon Link for Reference - https://www.amazon.com/EZDIY-FAB-Adapter-Lighting-Commander-Included/dp/B08KGMZ9YT
 
